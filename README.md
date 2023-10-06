@@ -10,6 +10,10 @@ if you don't already have them, see [here](https://github.com/PyMySQL/mysqlclien
 Second, install Flask-MySQLdb:
 ```shell
 pip install flask-mysqldb
+
+or
+
+pip3 install flask-mysqldb
 ```
 
 Flask-MySQLdb depends, and will install for you, recent versions of Flask
